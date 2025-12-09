@@ -1,1 +1,2 @@
 nunchaku-0.3.2+torch2.6-cp311-cp311-linux_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+nunchaku-1.0.1.dev20250926+torch2.6-cp311-cp311-win_amd64.whl filter=lfs diff=lfs merge=lfs -text
